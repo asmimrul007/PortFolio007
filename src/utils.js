@@ -6,6 +6,6 @@ export const getImageUrl =(path) => {
 
 
 export const getImageUrl =(path) => {
-    return `public/images/${path}`;
+    return `/images/${path}`;
 } ;
 
